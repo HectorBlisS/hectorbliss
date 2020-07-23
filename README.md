@@ -50,7 +50,7 @@ Cloud | Full-Stack | Web | Mobile (Android & iOS)
 <a href="mailto:hectorbliss.dev@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
-<a href="https://www.facebook.com/hectorbliss">
+<a href="https://www.facebook.com/H%C3%A9ctor-Bliss-662003790891683">
   <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
 </a>
 <a href="https://stackoverflow.com/users/9851486/h%c3%a9ctor-bliss">
