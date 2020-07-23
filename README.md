@@ -17,7 +17,7 @@ Cloud | Full-Stack | Web | Mobile (Android & iOS)
 
 - I organize the [FirebaseMX](https://www.meetup.com/es-ES/GDG-Firebase-Mexico/) meetup here in CDMX and I also work remotely and help run/mentor/teach at [Fixter.Camp](https://fixter.camp)
 
-- Senior Software Engineer at Jaya Company. My interests include React, Redux, Docker, K8s, AWS, GCP, testing, Svelte, Spring, Android, iOS, Rails, Django, NodeJS, Swift for web and State machines and many more...
+- Senior Software Engineer at Jaya Company. My interests include React, Redux, Docker, K8s, AWS, GCP, testing, Svelte, Spring, Android, iOS, Rails, Django, NodeJS, Swift for web, State machines and many more...
 
 - Passionate Instructor, Consultant, Teacher, Developer and Speaker
 
