@@ -21,6 +21,8 @@ Cloud | Full-Stack | Web | Mobile (Android & iOS)
 
 - Passionate Instructor, Consultant, Teacher, Developer and Speaker
 
+- You can find some of my courses here: [Udemy](https://www.udemy.com/user/hector-bliss/)
+
 - I talk memes, spanish and english. (and I know how to comunicate with Colombian parceros)
 
 
