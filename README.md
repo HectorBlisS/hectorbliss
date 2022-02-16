@@ -23,7 +23,7 @@ Cloud | Full-Stack | Web | Mobile (Android & iOS)
 
 - You can find some of my courses here: [Udemy](https://www.udemy.com/user/hector-bliss/)
 
-- I talk memes, spanish and english. (and I know how to comunicate with Colombian parseros)
+- I talk memes, spanish and english.
 
 
 ## Mis redes sociales
